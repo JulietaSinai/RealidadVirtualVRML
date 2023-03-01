@@ -27,4 +27,4 @@ Poder aplicar los conocimientos obtenidos ademas de poder mostrar mi proyecto me
 
 ## 4.Link a Demo
 
-Aquí puedes visualizar mi proyecto terminado: [Realidad Virtual](https://calculadoratecnolochicas.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Realidad Virtual](https://realidadvirtualvrml.netlify.app/)
